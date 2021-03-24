@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: sans-serif;
+	background: lightcoral;
+	color: #fff;
+}
+
+.wrapper {
+	width: 580px;
+	margin: auto;
+}
+
+.container {
+	margin-top: 2rem;
+	padding: 80px;
+	background-color: rgba(0, 0, 0, 0.75);
+	border-radius: 10px;
+}
+
+h1 {
+	margin-bottom: 2rem;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	padding: 10px;
+	margin: 0px 80px;
+	margin-bottom: 1rem;
+	background-color: rgba(255, 255, 255, 0.2);
+	border-radius: 5px;
+}
+
+#my-name {
+	margin-top: 2rem;
+}
